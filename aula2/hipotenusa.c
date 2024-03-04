@@ -11,7 +11,7 @@ int main () {
 	
 	float hip;
 	
-	hip = sqrt(pow(cat1,2) + pow(cat2,2))
+	hip = sqrt(pow(cat1,2) + pow(cat2,2));
 	
     printf("A hipotenusa de %.2f e %.2f é %.2f.", cat1, cat2, hip);
     return 0;
