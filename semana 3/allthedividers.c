@@ -12,10 +12,12 @@ int main () {
 	}
 	
 	int i;
+	
+	printf("O %d é divido por: ", num);
 	for (i=1; i < num + 1; ++i)
 	{
 		if (num % i == 0){
-			printf("O %d é divido por %d\n", num, i);
+			printf("%d ", i);
 		}
 		
 	}
