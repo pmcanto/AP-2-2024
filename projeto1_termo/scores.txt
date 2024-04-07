@@ -1,0 +1,5 @@
+Pedro, abalo, 2, 0.000155
+Gabriel, abate, 3, 0.000281
+GABRIEL, bento, 4, 0.000433
+gabriel, chapa, 5, 0.000606
+PEDRO, abade, 1, 0.000063
